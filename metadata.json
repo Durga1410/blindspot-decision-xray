@@ -1,0 +1,6 @@
+{
+  "name": "BLINDSPOT — Decision X-Ray",
+  "description": "Don't ask AI what to decide. Ask AI what you're failing to see. Stress-test your reasoning by uncovering hidden assumptions, overlooked factors, and reasoning tensions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
